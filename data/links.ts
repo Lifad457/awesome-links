@@ -28,7 +28,7 @@ export const links = [
     category: "Open Source",
     description: "GraphQL implementation ",
     id: 4,
-    imageUrl: "https://www.apollographql.com/apollo-home.jpg",
+    imageUrl: "https://blog.ippon.fr/content/images/size/w900/format/webp/2022/07/banniere_grande.png",
     title: "Apollo GraphQL",
     url: "https://apollographql.com",
   },
